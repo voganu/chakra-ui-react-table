@@ -1,0 +1,31 @@
+{
+  "name": "chakra-ui-react-table-nextjs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@chakra-ui/core": "0.8.0",
+    "@emotion/core": "10.1.1",
+    "@emotion/styled": "10.0.27",
+    "emotion-theming": "^10.0.27",
+    "framer-motion": "2.9.4",
+    "next": "10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-icons": "4.1.0",
+    "react-table": "7.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.6.0",
+    "@types/react": "^16.9.46",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-table": "^7.0.25",
+    "typescript": "4.0.5"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": "Example of a Table component using chakra-ui v0.8 and react-table v7 with nextjs v10"
+}
